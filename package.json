@@ -1,0 +1,19 @@
+{
+  "name": "appweb1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "es0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattellegrino/appweb1.git"
+  },
+  "author": "Matteo Pellegrino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattellegrino/appweb1/issues"
+  },
+  "homepage": "https://github.com/mattellegrino/appweb1#readme"
+}
